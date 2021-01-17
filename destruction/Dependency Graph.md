@@ -3,8 +3,8 @@
 
 Module dependecy graph - *within a module*
 - Module call graph 
-- Module/Class inheritance hierarchy
+- Module/Class (inheritance) hierarchy
 
 Package dependency graph - *within a package*
 - Package call graph
-- Package namespace hierarchy
+- Package namespace (hierarchy)
