@@ -19,3 +19,4 @@ htmlcov/
 .ipynb_checkpoint/
 .pytest_cache
 tmp/
+.vscode
